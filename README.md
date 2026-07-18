@@ -5,19 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=900&lines=Backend+Developer;DevOps+Engineer;Go+Developer;Python+Developer;Building+Scalable+Backends;Linux+%7C+Docker+%7C+AWS+%7C+Kubernetes;CI%2FCD+Automation;Infrastructure+%26+Cloud+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <br>
-
-<a href="https://github.com/hrishabpachange">
-    <img src="https://komarev.com/ghpvc/?username=hrishabpachange&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/hrishabpachange?tab=followers">
-<img src="https://img.shields.io/github/followers/hrishabpachange?label=Followers&style=for-the-badge&color=blue"/>
-</a>
-
-<a href="https://github.com/hrishabpachange">
-<img src="https://img.shields.io/github/stars/hrishabpachange?affiliations=OWNER&style=for-the-badge&color=yellow"/>
-</a>
-
 </div>
 
 ---
