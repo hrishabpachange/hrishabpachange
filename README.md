@@ -145,14 +145,11 @@ Production-ready deployment using
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 GitHub Profile Summary
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hrishabpachange&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrishabpachange&theme=tokyonight">
 </p>
-
 ---
 
 # 📈 Contribution Graph
